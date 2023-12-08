@@ -1,0 +1,6 @@
+venv/
+/.pytest_cache
+/alembic
+**/__pycache__/
+.idea/
+/core/.env
